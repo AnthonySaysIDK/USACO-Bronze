@@ -1,1 +1,9 @@
-.autosync/
+# Executables
+*.exe
+
+# Build artifacts
+*.o
+*.obj
+*.out
+build/
+bin/
