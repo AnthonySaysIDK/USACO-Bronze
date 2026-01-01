@@ -1,0 +1,19 @@
+When you want to pull:
+1. open a Power Shell Terminal
+2. do git pull
+
+When you want to push:
+1. open a Power Shell Terminal
+2.  write the following:
+git add -A
+git commit -m "message"
+git push
+
+When you want to run a file
+1. You need to build the exe file so do the following lines everytime you want to run a file 
+g++ -std=gnu++17 -O2 -Wall FILENAME.cpp -o FILENAME (ctrl + alr + b)
+./FILENAME
+
+When you want to run a file but have input as input.txt and output as output.txt
+1. Similar to the one above but make sure to run the following instead:
+./FILENAME < input.txt > output.txt

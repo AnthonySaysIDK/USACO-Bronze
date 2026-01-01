@@ -16,7 +16,7 @@ g++ -std=gnu++17 -O2 -Wall FILENAME.cpp -o FILENAME
 ./FILENAME
 
 add input and output text:
-./Template < input.txt > output.txt
+./FILENAME < input.txt > output.txt
 
 */
 // Hello World
